@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sonali Shaw, an incoming first-year at the University of Chicago intending to study computer science and statistics. 
+I'm Sonali Shaw, a first-year at the University of Chicago studying computer science and statistics. 
 
 Here are some things I'm familiar with!
 
